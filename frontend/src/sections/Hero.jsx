@@ -45,14 +45,14 @@ export const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center overflow-hidden">
       {/* Bg */}
-      <div className="absolute inset-0">
+      {/* <div className="absolute inset-0">
         <img
           src="/hero-bg.jpg"
           alt="Hero image"
           className="w-full h-full object-cover opacity-40"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-background/20 via-background/80 to-background" />
-      </div>
+      </div> */}
 
       {/* Green Dots */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -107,7 +107,7 @@ export const Hero = () => {
               <Button size="lg">
                 Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
-              <a href="../assets/AdityaSharma_Resume.pdf" download>
+              <a href="public/assets/AdityaSharma_Resume.pdf" download>
                 <AnimatedBorderButton>
                   <Download className="w-5 h-5" />
                   Download CV
@@ -148,7 +148,7 @@ export const Hero = () => {
               />
               <div className="relative glass rounded-3xl p-2 glow-border">
                 <img
-                  src="../src/assets/IMGP1202.jpg"
+                  src="public/assets/IMGP1202.jpg"
                   alt="Aditya Sharma"
                   className="w-full aspect-[4/5] object-cover rounded-2xl"
                 />
