@@ -107,7 +107,7 @@ export const Hero = () => {
               <Button size="lg">
                 Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
-              <a href="public/assets/AdityaSharma_Resume.pdf" download>
+              <a href="/assets/AdityaSharma_Resume.pdf" download>
                 <AnimatedBorderButton>
                   <Download className="w-5 h-5" />
                   Download CV
@@ -148,7 +148,7 @@ export const Hero = () => {
               />
               <div className="relative glass rounded-3xl p-2 glow-border">
                 <img
-                  src="public/assets/IMGP1202.jpg"
+                  src="/assets/IMGP1202.jpg"
                   alt="Aditya Sharma"
                   className="w-full aspect-[4/5] object-cover rounded-2xl"
                 />

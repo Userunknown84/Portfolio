@@ -2,67 +2,67 @@ import React from "react";
 
 const achievements = [
 {
-image: "public/assets/Achievments/JavaDsa.png",
+image: "/assets/Achievments/JavaDsa.png",
 title: "Java DSA",
 },
 {
-image: "public/assets/Achievments/FullStack.png",
+image: "/assets/Achievments/FullStack.png",
 title: " Full Stack",
 },
 {
-image: "public/assets/Achievments/ByteSize_Sage_Al_Hackathon_.png",
+image: "/assets/Achievments/ByteSize_Sage_Al_Hackathon_.png",
 title: "Byte Size Ai Hackathon",
 },
 {
-image: "public/assets/Achievments/Zomato.png",
+image: "/assets/Achievments/Zomato.png",
 title: "Zomato The Data Hackathon",
 },
 {
-image: "public/assets/Achievments/aws-academy-graduate-aws-academy-cloud-foundations.png",
+image: "/assets/Achievments/aws-academy-graduate-aws-academy-cloud-foundations.png",
 title: "AWS Academy",
 },
 {
-image: "public/assets/Achievments/AWS.png",
+image: "/assets/Achievments/AWS.png",
 title: "AWS Academy Cloud Foundations",
 },
 {
-image: "public/assets/Achievments/AWS2.png",
+image: "/assets/Achievments/AWS2.png",
 title: "AWS Academy Microserves CI/CD Pipeline Builder",
 },
 {
-image: "public/assets/Achievments/BRIDGE Campus Learning Series - Thank you badge_Audit Intelligence.png",
+image: "/assets/Achievments/BRIDGE Campus Learning Series - Thank you badge_Audit Intelligence.png",
 title: "Deliote Bridge Course",
 },
 {
-image: "public/assets/Achievments/introduction-to-modern-ai.png",
+image: "/assets/Achievments/introduction-to-modern-ai.png",
 title: "Introduction To Modern Ai",
 },
 {
-image: "public/assets/Achievments/introduction-to-data-science.png",
+image: "/assets/Achievments/introduction-to-data-science.png",
 title: "Introduction To Data Science",
 },
 {
-image: "public/assets/Achievments/TataCrudle.jpg",
+image: "/assets/Achievments/TataCrudle.jpg",
 title: "Tata Crudle",
 },
 {
-image: "public/assets/Achievments/Unstop certificate.jpg",
+image: "/assets/Achievments/Unstop certificate.jpg",
 title: "Unstop Certificate",
 },
 {
-image: "public/assets/Achievments/Pregrad.png",
+image: "/assets/Achievments/Pregrad.png",
 title: "Pregrad Certification",
 },
 {
-image: "public/assets/Achievments/CloudToCrowd.png",
+image: "/assets/Achievments/CloudToCrowd.png",
 title: "Cloud To Crowd:Introduction for Media IQ",
 },
 {
-image: "public/assets/Achievments/GitHub_Portfolio_Analyzer_&_Enhancer_Hackathon.png",
+image: "/assets/Achievments/GitHub_Portfolio_Analyzer_&_Enhancer_Hackathon.png",
 title: "Github Portfolio Analyzer",
 },
 {
-image: "public/assets/Achievments/Hcl.png",
+image: "/assets/Achievments/Hcl.png",
 title: "Hcl Vibe Coding",
 },
 ];
