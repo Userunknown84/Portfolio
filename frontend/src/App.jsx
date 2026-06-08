@@ -6,6 +6,9 @@ import { Experience } from "@/sections/Experience";
 import { Testimonials } from "@/sections/Testimonials";
 import { Contact } from "@/sections/Contact";
 import { Footer } from "./layout/Footer";
+import Achievements from "./sections/Achievements";
+import Collaboration from "./sections/Collaboration";
+import ChatBot from "./sections/Chatbot";
 
 function App() {
   return (
@@ -15,8 +18,9 @@ function App() {
         <Hero />
         <About />
         <Projects />
-        <Experience />
-        <Testimonials />
+        <Achievements/>
+        <Experience/>
+        <Collaboration/>
         <Contact />
       </main>
       <Footer />

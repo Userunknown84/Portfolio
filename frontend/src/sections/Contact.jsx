@@ -14,19 +14,19 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "pedro@example.com",
+    value: "adityasharma5506@gmail.com",
     href: "mailto:pedro@example.com",
   },
-  {
-    icon: Phone,
-    label: "Phone",
-    value: "+1 (555) 123-4567",
-    href: "tel:+15551234567",
-  },
+  // {
+  //   icon: Phone,
+  //   label: "Phone",
+  //   value: "+91 96466",
+  //   href: "tel:+15551234567",
+  // },
   {
     icon: MapPin,
     label: "Location",
-    value: "San Francisco, CA",
+    value: "Chandigarh ,India",
     href: "#",
   },
 ];
